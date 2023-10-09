@@ -4,7 +4,7 @@ Homelab
 
   ![Unraid](https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</h1
+</h1>
 
 ## Homepage
 
@@ -41,6 +41,6 @@ Dell Precision 3420:
 - Storage (Parity Drive): 4 TB Western Digital WD4000FYYZ
 - Storage (Primary Drive): 2 TB Patriot P210
 
-## Reference
+# Reference
 + [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
 + [UNRAID](https://https://unraid.net/) - Operating system i use to run the services i use.
